@@ -1,7 +1,5 @@
-@font-face {
-  font-family: "Permanent Marker", cursive;
-  src: url("/css/fonts/PermanentMarker-Regular.ttf");
-}
+
+
 h1 {
 font-family: "Permanent Marker";
   color: green;
