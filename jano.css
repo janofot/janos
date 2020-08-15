@@ -3,8 +3,11 @@
   font-style: normal;
   font-weight: normal;
   src: url('/css/fonts/rov_ma_jb.ttf')
+unicode-bidi: bidi-override;
+  text-transform: none !important;
+  direction: rtl;
+  font-weight: normal;
 }
-
 h1 {
 font-family: 'Rovas MA JB' ;
 
@@ -12,7 +15,7 @@ font-family: 'Rovas MA JB' ;
     text-align: left;
   } 
   h2 {
-    font-family: 'Rovas MA JB' ;
+    
     color: green;
     text-align: left;
   } 
