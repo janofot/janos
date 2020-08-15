@@ -1,6 +1,12 @@
-
+@font-face {
+  font-family: 'Rovas MA JB';
+  font-style: normal;
+  font-weight: normal;
+  src: url('/css/fonts/rov_ma_jb.ttf')
+}
 
 h1 {
+font-family: 'Rovas MA JB' ;
 
   color: green;
     text-align: left;
