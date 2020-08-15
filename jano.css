@@ -1,24 +1,34 @@
+@font-face {
+  font-family: "Permanent Marker", cursive;
+  src: url("/css/fonts/PermanentMarker-Regular.ttf");
+}
 h1 {
-    color: green;
+font-family: "Permanent Marker";
+  color: green;
     text-align: left;
   } 
   h2 {
+    font-family: "Permanent Marker";
     color: green;
     text-align: left;
   } 
   h3 {
+    font-family: "Permanent Marker";
     color: green;
     text-align: left;
   }
   h4 {
+    font-family: "Permanent Marker";
     color: green;
     text-align: left;
   }
   h5{
+    font-family: "Permanent Marker";
     color: green;
     text-align: left;
   }
   h6 {
+    font-family: "Permanent Marker";
     color: green;
     text-align: left;
   }
