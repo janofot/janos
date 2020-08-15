@@ -1,0 +1,25 @@
+
+
+  @font-face { font-family: "OldHungarian";
+     src: url("/css/fonts/OldHungarian.ttf") format('embedded-opentype');
+      
+         font-weight: normal; 
+         font-style: normal; }
+         h1 {
+          color: green;
+        } 
+        h2 {
+          color: green;
+        } 
+        h3 {
+          color: green;
+        }
+        h4 {
+          color: green;
+        }
+        h5{
+          color: green;
+        }
+        h6 {
+          color: green;
+        }
