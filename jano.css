@@ -2,20 +2,30 @@
   font-family: 'Rovas MA JB';
   font-style: normal;
   font-weight: normal;
-  src: url('/css/fonts/rov_ma_jb.ttf')
-unicode-bidi: bidi-override;
+  src: url('/css/fonts/rov_ma_jb.ttf');
+  unicode-bidi: bidi-override;
   text-transform: none !important;
   direction: rtl;
-  font-weight: normal;
+  
+ 
 }
 h1 {
 font-family: 'Rovas MA JB' ;
-
+unicode-bidi: bidi-override;
+  text-transform: none !important;
+  direction: rtl;
   color: green;
     text-align: left;
   } 
   h2 {
     
+unicode-bidi: bidi-override;
+  text-transform: none !important;
+  direction: rtl;
+    font-family: 'Rovas MA JB' ;
+   font-size: 1300%;
+
+
     color: green;
     text-align: left;
   } 
